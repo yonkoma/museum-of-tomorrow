@@ -4,6 +4,8 @@
 
 Hello, Cube!
 
+Uses Git LFS (https://git-lfs.github.com)
+
 ## Versions
 
 ### Unity
